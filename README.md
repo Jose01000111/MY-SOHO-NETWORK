@@ -39,5 +39,5 @@ This post documents the initial setup of my Small Office/Home Office (SOHO) netw
 [Reolink   |                      [Canon PIXMA  Windows PC]
 Camera]    |                       TS7720 Printer]    |
            |                                            |
-    [TP-Link EAP245 V3 AP]                        [RHEL 9 System]
+    [TP-Link EAP245 V3 AP]                        [RHEL 9 VM]
     (PoE Access Point)
